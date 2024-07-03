@@ -1,2 +1,47 @@
-# Pattern-Problems
-This repo contains all the important pattern problems that you must solve before starting DSA.
+# Top 22 Pattern Problems
+all the important pattern problems that you must solve before starting DSA. This will impove your understanding of loops.
+**NOTE:** Programming language is Python
+### 1.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P1.png)
+### 2.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P2.png)
+### 3.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P3.png)
+### 4.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P4.png)
+### 5.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P5.png)
+### 6.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P6.png)
+### 7.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P7.png)
+### 8.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P8.png)
+### 9.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P9.png)
+### 10.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P10.png)
+### 11.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P11.png)
+### 12.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P12.png)
+### 13.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P13.png)
+### 14.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P14.png)
+### 15.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P15.png)
+### 16.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P16.png)
+### 17.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P17.png)
+### 18.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P18.png)
+### 19.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P19.png)
+### 20.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P20.png)
+### 21.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2023/01/Screenshot-2023-01-02-at-1.54.55-PM-1.jpg)
+### 22.
+![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P22.png)
