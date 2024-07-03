@@ -1,5 +1,5 @@
-x = 5
-for i in range(x): # Rows, Y-axis
-    for j in range(x): # Columns, X-axis
+n = int(input('>>> '))
+for i in range(n): # Rows, Y-axis
+    for j in range(n): # Columns, X-axis
         print('*', end='')
     print()
