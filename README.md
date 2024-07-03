@@ -1,6 +1,13 @@
 # Top 22 Pattern Problems
-all the important pattern problems that you must solve before starting DSA. This will impove your understanding of loops.
-**NOTE:** Programming language is Python
+> **NOTE:** *Python* is used
+
+All the important pattern problems that you must solve before doing something else. This will impove your understanding of loops/nested loops which is importent for logic building. I'll suggest you to try the following patterns youself first and if you got any problem than this repo is right here. Even during the making of this repo I'm learing it too.
+#### How to solve any pattern problem in just 4 simple steps:
+- Make nested loops, the outer loop is concidered as Rows or Y-axis and the inner loop is concidered as column or X-axis.
+- For the inner loop focus on the columns and connect then somehow to the rows.
+- Whatever you are printing(let say *), print it/them inside the inner loop.
+- Observe symmetry (optional)
+---
 ### 1.
 ![ERROR 101](https://static.takeuforward.org/wp/uploads/2022/08/P1.png)
 ### 2.
