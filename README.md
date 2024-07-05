@@ -1,7 +1,7 @@
 # Top 22 Pattern Problems
 > **NOTE:** *Python* is used
 
-All the important pattern problems that you must solve before doing something else. This will impove your understanding of loops/nested loops which is importent for logic building. I'll suggest you to try the following patterns youself first and if you got any problem than this repo is right here. Even during the making of this repo I'm learing it too.
+All the important pattern problems that you must solve before doing something else. This will impove your understanding of loops/nested loops which is importent for logic building. I'll suggest you to try the following patterns youself first and if you got any problem than this repo is right here. Even during the making of this repo I'm learing it too. If these problems are hard to solve then check [this video](https://youtu.be/tNm_NNSB3_w?si=Md1SfkqQDl7FAMyN).
 #### How to solve any pattern problem in just 4 simple steps:
 - Make nested loops, the outer loop is concidered as Rows or Y-axis and the inner loop is concidered as column or X-axis.
 - For the inner loop focus on the columns and connect then somehow to the rows.
