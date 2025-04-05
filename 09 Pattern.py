@@ -4,6 +4,6 @@ for i in range (n):
         print(' ', end='')
     for k in range(n - i):
         print("*", end="")
-    for l in range((n - i) - 1):
+    for l in range(n - i - 1):
         print("*", end="")
     print()   
